@@ -38,3 +38,4 @@ rsconnect/
 # USER
 OUTPUT/*
 .Rproj.user
+data/*
