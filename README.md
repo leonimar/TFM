@@ -24,7 +24,7 @@ in "/scripts", they MUST be executed in their numerated order: 00-01-02-03-04-05
 
 "/data"
 
-Contains all the tables and data sets needed to carry out the analyses
+Contains all the tables and data sets needed to carry out the analyses, for downloading:
 
 https://drive.google.com/open?id=12y5PyQXmlwzaXKgnZqGZcpIfX70lMW-O
 
